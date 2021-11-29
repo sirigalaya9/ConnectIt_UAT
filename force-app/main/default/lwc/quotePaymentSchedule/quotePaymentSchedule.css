@@ -1,0 +1,22 @@
+.col-0 {
+    width: 5%;    
+}
+.col-1 {
+    width: 70%;
+}
+.col-2 {
+    width: 25%;
+}
+.col-12 {
+    width: 12%;
+}
+.redFont {
+    color: red;
+}
+.col-balance {
+    margin-top: -4px;
+}
+.col-balance-text {
+    margin-top: 4px;
+    display: inline-block;    
+}
